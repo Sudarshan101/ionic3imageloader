@@ -1,6 +1,4 @@
-## Offline App
-[![NinjaDevs.IO](https://drive.google.com/uc?export=download&id=0B1pDFiUHXp9WMWZ4cW8yQ1p2bjg)](http://ninjadevs.io/)
-
+## ionic3imageloader
 This is an example of how to cache images in Ionic 3! using ImgCache.js
 
 ## Getting Started
